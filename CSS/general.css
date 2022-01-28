@@ -1,0 +1,14 @@
+.center-text {
+  text-align: center;
+  margin-top: 8rem;
+}
+.margin-top-sm {
+  margin-top: 0.2rem;
+}
+.inner-flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 0.4rem;
+}
